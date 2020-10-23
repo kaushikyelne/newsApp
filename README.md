@@ -25,3 +25,7 @@ https://getbootstrap.com/
 NewsApi Org 
 
  https://newsapi.org/
+
+<div>
+  <img src ="/newsScreenShot.JPG"/>
+</div>
